@@ -1,0 +1,20 @@
+{
+  "name": "GuruSMK",
+  "short_name": "GuruSMK",
+  "description": "Generator Modul Ajar SMK berdasarkan jurusan, fase, dan kondisi kelasmu",
+  "lang": "id",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

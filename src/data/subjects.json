@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "name": "Bahasa Indonesia",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Membaca, menulis, dan berkomunikasi dalam bahasa Indonesia dengan baik dan benar.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 2,
+    "name": "Bahasa Inggris",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pengenalan kosakata, percakapan sederhana, dan dasar-dasar berbahasa Inggris.",
+    "cp": "Fase B\nPada akhir fase B, murid memiliki kemampuan sebagai berikut.\n1.1 Menyimak - Berbicara (Listening - Speaking)\nMemahami dan merespon teks lisan atau teks multimodal sederhana tentang kehidupan sehari-hari baik secara verbal atau non-verbal sesuai konteks. (Understand and respond to simple oral or multimodal texts about everyday life verbally or non-verbally in line with its context)\n1.2 Membaca - Memirsa (Reading - Viewing)\nMemahami teks tulis pendek sederhana atau teks multimodal tentang kehidupan sehari-hari dan meresponsnya secara verbal atau non-verbal sesuai konteks. (Understand simple short texts or multimodal texts about everyday life and respond to them verbally or non-verbally in line with its context)\n1.3 Menulis - Mempresentasikan (Writing - Presenting)\nMengomunikasikan gagasan tentang topik sehari-hari dalam teks tulis pendek atau teks multimodal sesuai konteks. (Communicate their ideas on everyday life topics in simple written or multimodal texts in line with its context)\n\nFase C\nPada akhir fase C, murid memiliki kemampuan sebagai berikut.\n2.1 Menyimak - Berbicara (Listening - Speaking)\nMemahami alur informasi teks secara keseluruhan dan merespon teks lisan atau teks multimodal sederhana tentang topik sehari-hari secara lisan dengan kalimat pendek dan sederhana sesuai konteks. (Understand the entire flow of information and respond to simple oral or multimodal texts about everyday topics using short and simple sentences verbally in line with its context)\n2.2 Membaca - Memirsa (Reading - Viewing)\nMemahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponnya sesuai konteks. (Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal texts about everyday topics and respond in line with its context)\n2.3 Menulis - Mempresentasikan (Writing - Presenting)\nMengomunikasikan ide dan pengalamannya melalui berbagai jenis teks tulis sederhana atau teks multimodal tentang topik sehari-hari sesuai konteks. (Communicate their ideas and experiences through various types of simple written texts or multimodal texts about everyday topics in line with its context)\n\nCatatan: Panduan ini mencakup Fase B–F. Fase A (SD Kelas 1-2) tidak tercakup dalam dokumen sumber.",
+    "atp": "Fase B — Contoh Alur Tujuan Pembelajaran (Jenjang SD/MI/Program Paket A)\nKelas III\n1. Mengidentifikasi informasi pada teks lisan atau multimodal sederhana tentang kehidupan sehari-hari.\n2. Merespon teks lisan atau teks multimodal sederhana tentang kehidupan sehari-hari baik secara verbal maupun non verbal.\n3. Mengidentifikasi informasi dalam teks tulis atau teks multimodal sederhana tentang topik sehari-hari.\n4. Mengomunikasikan gagasan tentang topik sehari-hari dalam teks tulis pendek.\nKelas IV\n5. Mengungkapkan gagasan secara lisan atau multimodal sederhana tentang kehidupan sehari-hari.\n6. Merespon informasi dalam teks tulis atau multimodal sederhana tentang topik sehari-hari secara verbal atau non verbal.\n7. Mengomunikasikan gagasan tentang topik sehari-hari dalam teks multimodal.\n\nCatatan: Contoh ATP pada panduan tersedia untuk Fase B (SD). Contoh ATP Fase C tidak disediakan dalam dokumen sumber."
+  },
+  {
+    "id": 3,
+    "name": "IPAS",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Mempelajari fenomena alam dan sosial melalui pendekatan Ilmu Pengetahuan Alam dan Sosial.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 4,
+    "name": "Kepercayaan Terhadap Tuhan Yang Maha Esa dan Budi Pekerti",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Menumbuhkan keyakinan terhadap Tuhan Yang Maha Esa dan budi pekerti luhur.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 5,
+    "name": "Koding dan Kecerdasan Artifisial",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pengenalan dasar logika pemrograman, koding, dan kecerdasan artifisial.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 6,
+    "name": "Matematika",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Konsep bilangan, geometri, pengukuran, dan penalaran matematis dasar.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 7,
+    "name": "Pendidikan Agama Buddha dan Budi Pekerti",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pembelajaran ajaran agama Buddha dan pembinaan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 8,
+    "name": "Pendidikan Agama Hindu dan Budi Pekerti",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pembelajaran ajaran agama Hindu dan pembinaan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 9,
+    "name": "Pendidikan Agama Islam dan Budi Pekerti",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pembelajaran ajaran agama Islam dan pembinaan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 10,
+    "name": "Pendidikan Agama Katolik dan Budi Pekerti",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pembelajaran ajaran agama Katolik dan pembinaan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 11,
+    "name": "Pendidikan Agama Khonghucu dan Budi Pekerti",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pembelajaran ajaran agama Khonghucu dan pembinaan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 12,
+    "name": "Pendidikan Agama Kristen dan Budi Pekerti",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pembelajaran ajaran agama Kristen dan pembinaan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 13,
+    "name": "Pendidikan Pancasila",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Penanaman nilai-nilai Pancasila, kewarganegaraan, dan karakter bangsa.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 14,
+    "name": "PJOK",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendidikan jasmani, olahraga, dan kesehatan untuk pertumbuhan fisik dan mental.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 15,
+    "name": "Program Kebutuhan Khusus Pengembangan Diri dan Gerak untuk Peserta Didik Berkebutuhan Khusus Dengan Hambatan Fisik/Tunadaksa",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Program pengembangan diri dan keterampilan gerak bagi peserta didik tunadaksa.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 16,
+    "name": "Program Kebutuhan Khusus Pengembangan Orientasi Mobilitas Sosial dan Komunikasi untuk Peserta Didik Dengan Hambatan Penglihatan/Tunanetra",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Program orientasi, mobilitas, sosial, dan komunikasi bagi peserta didik tunanetra.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 17,
+    "name": "Seni Musik",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Mengenal unsur musik, bernyanyi, dan memainkan alat musik sederhana.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 18,
+    "name": "Seni Rupa",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Mengembangkan kreativitas melalui menggambar, melukis, dan karya seni rupa.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 19,
+    "name": "Seni Tari",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Mengenal gerak tari, ekspresi, dan apresiasi seni tari tradisional dan modern.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 20,
+    "name": "Seni Teater",
+    "jenjang": "SD",
+    "fase": "A-C",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Bermain peran, ekspresi diri, dan apresiasi seni teater.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 21,
+    "name": "Bahasa Indonesia",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan menyimak, berbicara, membaca, dan menulis berbagai jenis teks.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 22,
+    "name": "Bahasa Inggris",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pengembangan keterampilan berbahasa Inggris untuk komunikasi sehari-hari.",
+    "cp": "Fase D\nPada akhir fase D, murid memiliki kemampuan sebagai berikut.\n3.1 Menyimak - Berbicara (Listening - Speaking)\nMemahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari teks lisan tentang topik sehari-hari atau yang sesuai dengan minat; menggunakan bahasa Inggris untuk mengungkapkan gagasan dan pengalaman dalam berbagai jenis teks secara lisan tentang topik yang dibahas dengan menggunakan kalimat sederhana dan majemuk baik formal maupun informal sesuai konteks. (Understand the entire flow of information, main ideas and details of oral texts about everyday topics or topics of interest; use English to express ideas and experiences in various types of texts orally about the topics discussed using simple and compound sentences, both formally and informally in line with its context)\n3.2 Membaca - Memirsa (Reading - Viewing)\nMemahami alur informasi, informasi tersurat dan tersirat dari berbagai jenis teks tertulis atau teks multimodal tentang topik sehari-hari atau yang sesuai dengan minat dan meresponnya sesuai konteks. (Understand the entire flow of information, explicit and implicit information from various types of written or multimodal texts about everyday topics or topics of interest and respond in line with its context)\n3.3 Menulis - Mempresentasikan (Writing - Presenting)\nMengomunikasikan gagasan dan pengalaman mereka dalam berbagai jenis teks secara tertulis atau teks multimodal tentang topik sehari-hari atau yang sesuai dengan minat dengan mulai menggunakan kalimat sederhana dan majemuk dengan struktur teks dan unsur kebahasaan yang tepat; mengungkapkan pendapat dan mempertahankan argumen tentang suatu isu terkait topik sehari-hari atau yang sesuai dengan minat. (Communicate their ideas and experiences in various types of texts, in written or multimodal texts, about everyday topics or topics of interest, by starting to use simple and compound sentences with appropriate text structures and language features; express their opinions and defend their arguments on issues related to daily topics or topics of interests)",
+    "atp": "Fase D — Contoh Alur Tujuan Pembelajaran (Jenjang SMP/MTs/Program Paket B)\nKelas VII\n1. Mengidentifikasi alur informasi secara keseluruhan dari teks lisan tentang topik sehari-hari dan sesuai dengan minat.\n2. Mengidentifikasi gagasan utama dan informasi rinci dari teks lisan tentang topik sehari-hari dan sesuai dengan minat.\n3. Mengidentifikasi alur informasi, informasi tersurat dan tersirat dari berbagai jenis teks tertulis atau teks multimodal tentang topik sehari-hari.\n4. Mengungkapkan gagasan dalam berbagai jenis teks secara tertulis tentang topik sehari-hari dan sesuai dengan minat dengan mulai menggunakan kalimat sederhana dan majemuk dengan struktur teks dan unsur kebahasaan yang tepat.\nKelas VIII\n5. Mengungkapkan gagasan dalam berbagai jenis teks secara lisan tentang topik yang dibahas menggunakan kalimat sederhana dan majemuk secara formal maupun informal.\n6. Mengidentifikasi alur informasi, informasi tersurat dan tersirat dari berbagai jenis teks tertulis atau teks multimodal tentang topik yang diminati.\n7. Merespon berbagai jenis teks tertulis tentang topik sehari-hari dan sesuai dengan minat.\n8. Mengungkapkan pengalaman dalam berbagai jenis teks secara tertulis tentang topik sehari-hari dan sesuai dengan minat dengan mulai menggunakan kalimat sederhana dan majemuk dengan struktur teks dan unsur kebahasaan yang tepat.\n9. Mengungkapkan pendapat tentang suatu isu terkait kehidupan sehari-hari dan yang sesuai dengan minat.\nKelas IX\n10. Mengungkapkan pengalaman dalam berbagai jenis teks secara lisan tentang topik yang dibahas menggunakan kalimat sederhana dan majemuk secara formal maupun informal.\n11. Merespon teks multimodal tentang topik sehari-hari dan sesuai dengan minat.\n12. Mengomunikasikan gagasan dan pengalaman dalam teks multimodal tentang topik sehari-hari dan sesuai dengan minat dengan mulai menggunakan kalimat sederhana dan majemuk dengan struktur teks dan unsur kebahasaan yang tepat.\n13. Memertahankan pendapat tentang suatu isu terkait kehidupan sehari-hari dan yang sesuai dengan minat."
+  },
+  {
+    "id": 23,
+    "name": "Informatika",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar teknologi informasi, berpikir komputasional, dan literasi digital.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 24,
+    "name": "IPA",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian fenomena alam melalui biologi, fisika, dan kimia secara terpadu.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 25,
+    "name": "IPS",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian interaksi manusia dengan lingkungan sosial, ekonomi, dan geografis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 26,
+    "name": "Kepercayaan Terhadap Tuhan Yang Maha Esa dan Budi Pekerti",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Penguatan keyakinan terhadap Tuhan Yang Maha Esa dan pembentukan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 27,
+    "name": "Koding dan Kecerdasan Artifisial",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Logika pemrograman, dasar koding, dan pengenalan kecerdasan artifisial.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 28,
+    "name": "Matematika",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Bilangan, aljabar, geometri, dan statistika untuk penalaran logis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 29,
+    "name": "Pendidikan Agama Buddha dan Budi Pekerti",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Buddha dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 30,
+    "name": "Pendidikan Agama Hindu dan Budi Pekerti",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Hindu dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 31,
+    "name": "Pendidikan Agama Islam dan Budi Pekerti",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Islam dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 32,
+    "name": "Pendidikan Agama Katolik dan Budi Pekerti",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Katolik dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 33,
+    "name": "Pendidikan Agama Khonghucu dan Budi Pekerti",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Khonghucu dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 34,
+    "name": "Pendidikan Agama Kristen dan Budi Pekerti",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Kristen dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 35,
+    "name": "Pendidikan Pancasila",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Penerapan nilai Pancasila, norma, dan tanggung jawab sebagai warga negara.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 36,
+    "name": "PJOK",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Aktivitas fisik, olahraga, dan pendidikan kesehatan untuk kebugaran jasmani.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 37,
+    "name": "Prakarya Budidaya",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan membudidayakan tanaman atau ternak secara sederhana.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 38,
+    "name": "Prakarya Kerajinan",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan membuat karya kerajinan dari berbagai bahan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 39,
+    "name": "Prakarya Pengolahan",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan mengolah bahan pangan menjadi produk yang bernilai.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 40,
+    "name": "Prakarya Rekayasa",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan merancang dan membuat produk rekayasa sederhana.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 41,
+    "name": "Program Kebutuhan Khusus Pengembangan Diri dan Gerak",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Program pengembangan diri dan keterampilan gerak bagi peserta didik berkebutuhan khusus.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 42,
+    "name": "Program Kebutuhan Khusus POMSK",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Program orientasi, mobilitas, sosial, dan komunikasi bagi peserta didik berkebutuhan khusus.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 43,
+    "name": "Seni Musik",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik bernyanyi, bermain alat musik, dan apresiasi musik.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 44,
+    "name": "Seni Rupa",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Eksplorasi teknik seni rupa dan pengembangan karya kreatif.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 45,
+    "name": "Seni Tari",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik gerak tari, koreografi, dan apresiasi seni tari.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 46,
+    "name": "Seni Teater",
+    "jenjang": "SMP",
+    "fase": "D",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik bermain peran, olah vokal, dan pementasan teater.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 47,
+    "name": "Antropologi",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian tentang manusia, budaya, dan masyarakat dari perspektif antropologis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 48,
+    "name": "Bahasa Arab",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan berbahasa Arab untuk komunikasi dan pemahaman teks keagamaan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 49,
+    "name": "Bahasa Indonesia",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pengembangan keterampilan berbahasa Indonesia tingkat lanjut dan analisis teks.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 50,
+    "name": "Bahasa Inggris",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Penguasaan bahasa Inggris tingkat lanjut untuk akademik dan komunikasi global.",
+    "cp": "Fase E\nPada akhir fase E, murid memiliki kemampuan sebagai berikut.\n4.1 Menyimak - Berbicara (Listening - Speaking)\nMemahami alur informasi secara keseluruhan, gagasan utama dan detail dalam teks lisan fiksi dan non fiksi mengenai berbagai macam topik yang relevan dengan topik sehari-hari atau isu terkini; menggunakan bahasa Inggris untuk mengungkapkan pendapat dan mempertahankan argumen tentang topik yang dibahas. (Understand the entire flow of information, the main idea and details in fiction and nonfiction spoken texts about various topics relevant to everyday topics or current issues; use English to express their opinions and defend their arguments about the topics discussed)\n4.2 Membaca - Memirsa (Reading - Viewing)\nMemahami alur informasi secara keseluruhan, menganalisis dan menyimpulkan informasi tersurat dan tersirat dari berbagai jenis teks fiksi dan non fiksi tertulis atau teks multimodal tentang topik sehari-hari atau isu terkini. (Understand the entire flow of information, analyze and infer explicit and implicit information in fiction and nonfiction from written and multimodal texts about everyday topics or current issues)\n4.3 Menulis - Mempresentasikan (Writing - Presenting)\nMengomunikasikan gagasan dan pengalaman mereka secara tertulis atau multimodal dalam berbagai jenis teks fiksi dan nonfiksi dengan menggunakan berbagai media presentasi (cetak dan digital) untuk mencapai tujuan tertentu dengan struktur teks dan unsur kebahasaan yang tepat; mengungkapkan pendapat dan mempertahankan argumen tentang topik sehari-hari atau isu terkini. (Communicate their ideas and experiences in written or multimodal texts in fiction and nonfiction texts using different media of presentation (print and digital) to achieve specific goals with appropriate text structures and language features; express their opinions and defend their arguments about everyday topics or current issues)\n\nFase F\nPada akhir fase F, murid memiliki kemampuan sebagai berikut.\n5.1 Menyimak - Berbicara (Listening - Speaking)\nMemahami alur informasi secara keseluruhan dari teks lisan fiksi dan non fiksi tentang isu terkini atau topik terkait mata pelajaran lain; menggunakan bahasa Inggris untuk mengungkapkan pendapat dan mempertahankan argumen tentang topik yang dibahas. (Understand the entire flow of information in fiction and nonfiction spoken texts about current issues or topics related to other subjects; use English to express their opinions and defend their arguments about the topics discussed)\n5.2 Membaca - Memirsa (Reading - Viewing)\nMengevaluasi informasi tersurat dan tersirat dari berbagai jenis teks fiksi dan non fiksi tertulis atau teks multimodal tentang isu terkini atau topik yang terkait mata pelajaran lain. (Evaluate explicit and implicit information in fiction and nonfiction from written and multimodal texts about current issues or topics related to other subjects)\n5.3 Menulis - Mempresentasikan (Writing - Presenting)\nMengomunikasikan gagasan dan pengalaman secara tertulis atau multimodal dalam berbagai jenis teks fiksi dan nonfiksi dengan struktur teks dan unsur kebahasaan yang tepat dan kompleks dengan menggunakan berbagai media presentasi (cetak dan digital) untuk mencapai tujuan yang berbeda-beda; menunjukkan strategi koreksi dalam kaidah menulis baik dengan bantuan pendidik maupun mandiri; mengungkapkan pendapat dan mempertahankan argumen tentang isu terkini atau topik yang terkait mata pelajaran lain. (Communicate ideas and experiences in written or multimodal texts in fiction and nonfiction texts with appropriate and complex text structures and language features, using different media of presentation (print and digital) to achieve different purposes; demonstrate correction strategies in writing conventions with the help of a teacher or independently; express their opinions and defend their arguments on current issues or topics related to other subjects)",
+    "atp": "Fase F — Contoh Alur Tujuan Pembelajaran (Jenjang SMA/MA/SMK/MAK/Program Paket C)\nKelas XI\n1. Mengidentifikasi alur informasi secara keseluruhan dari teks lisan fiksi tentang isu terkini atau topik terkait mata pelajaran lain.\n2. Mengungkapkan pendapat tentang topik yang dibahas.\n3. Mengevaluasi informasi tersurat dan tersirat dari berbagai jenis teks fiksi tertulis atau multimoda tentang isu terkini atau topik yang terkait mata pelajaran lain.\n4. Mengomunikasikan gagasan dan pengalaman dalam berbagai jenis teks fiksi dengan struktur teks dan unsur kebahasaan yang tepat dan kompleks dengan menggunakan berbagai media (cetak dan digital) untuk mencapai tujuan yang berbeda-beda.\n5. Mengungkapkan pendapat tentang isu terkini atau topik yang terkait mata pelajaran lain.\nKelas XII\n6. Mengidentifikasi alur informasi secara keseluruhan dari teks lisan non fiksi tentang isu terkini atau topik terkait mata pelajaran lain.\n7. Mempertahankan argumen tentang topik yang dibahas sesuai konteks.\n8. Mengevaluasi informasi tersurat dan tersirat dari berbagai jenis teks non fiksi tertulis atau multimoda tentang isu terkini atau topik yang terkait mata pelajaran lain.\n9. Mengomunikasikan gagasan dan pengalaman dalam berbagai jenis teks non fiksi dengan struktur teks dan unsur kebahasaan yang tepat dan kompleks dengan menggunakan berbagai media (cetak dan digital) untuk mencapai tujuan yang berbeda-beda.\n10. Menunjukkan strategi koreksi dalam kaidah menulis baik dengan bantuan pendidik maupun mandiri.\n11. Memertahankan pendapat tentang isu terkini atau topik yang terkait mata pelajaran lain.\n\nCatatan: Contoh ATP pada panduan tersedia untuk Fase F (Kelas XI-XII). Contoh ATP Fase E tidak disediakan dalam dokumen sumber."
+  },
+  {
+    "id": 51,
+    "name": "Bahasa Jepang",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan berbahasa Jepang meliputi percakapan, membaca, dan menulis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 52,
+    "name": "Bahasa Jerman",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan berbahasa Jerman meliputi percakapan, membaca, dan menulis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 53,
+    "name": "Bahasa Korea",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan berbahasa Korea meliputi percakapan, membaca, dan menulis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 54,
+    "name": "Bahasa Mandarin",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan berbahasa Mandarin meliputi percakapan, membaca, dan menulis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 55,
+    "name": "Bahasa Prancis",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan berbahasa Prancis meliputi percakapan, membaca, dan menulis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 56,
+    "name": "Biologi",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian tentang makhluk hidup, struktur, fungsi, dan ekosistem.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 57,
+    "name": "Ekonomi",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian perilaku ekonomi, pasar, dan pengelolaan sumber daya.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 58,
+    "name": "Fisika",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian materi, energi, gaya, dan gejala alam melalui pendekatan kuantitatif.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 59,
+    "name": "Geografi",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian fenomena geosfer dan interaksi manusia dengan lingkungan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 60,
+    "name": "Informatika",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pemrograman, data, jaringan, dan dampak sosial teknologi informasi.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 61,
+    "name": "IPA",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian terpadu fenomena alam untuk pemahaman saintifik tingkat lanjut.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 62,
+    "name": "IPS",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian terpadu fenomena sosial, ekonomi, dan geografi pada tingkat lanjut.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 63,
+    "name": "Kepercayaan Terhadap Tuhan Yang Maha Esa dan Budi Pekerti",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman keyakinan terhadap Tuhan Yang Maha Esa dan pembentukan karakter.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 64,
+    "name": "Kimia",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian struktur materi, reaksi kimia, dan penerapannya dalam kehidupan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 65,
+    "name": "Koding dan Kecerdasan Artifisial",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pengembangan keterampilan koding dan penerapan kecerdasan artifisial.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 66,
+    "name": "Matematika",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Matematika lanjutan meliputi aljabar, kalkulus dasar, dan statistika.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 67,
+    "name": "Pendidikan Agama Buddha dan Budi Pekerti",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Buddha dan penguatan karakter.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 68,
+    "name": "Pendidikan Agama Hindu dan Budi Pekerti",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Hindu dan penguatan karakter.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 69,
+    "name": "Pendidikan Agama Islam dan Budi Pekerti",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Islam dan penguatan karakter.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 70,
+    "name": "Pendidikan Agama Katolik dan Budi Pekerti",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Katolik dan penguatan karakter.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 71,
+    "name": "Pendidikan Agama Khonghucu dan Budi Pekerti",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Khonghucu dan penguatan karakter.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 72,
+    "name": "Pendidikan Agama Kristen dan Budi Pekerti",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Kristen dan penguatan karakter.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 73,
+    "name": "Pendidikan Pancasila",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian Pancasila, konstitusi, dan kewarganegaraan pada tingkat lanjut.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 74,
+    "name": "PJOK",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Aktivitas fisik, olahraga, dan gaya hidup sehat untuk kebugaran jasmani.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 75,
+    "name": "Prakarya Budidaya",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik budidaya tanaman dan ternak bernilai ekonomi.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 76,
+    "name": "Prakarya Kerajinan",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pengembangan produk kerajinan kreatif dan inovatif.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 77,
+    "name": "Prakarya Pengolahan",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pengolahan bahan pangan menjadi produk bernilai jual.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 78,
+    "name": "Prakarya Rekayasa",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Perancangan dan pembuatan produk rekayasa sederhana.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 79,
+    "name": "Program Kebutuhan Khusus Pengembangan Diri dan Gerak",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Program pengembangan diri dan gerak bagi peserta didik berkebutuhan khusus.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 80,
+    "name": "Program Kebutuhan Khusus POMSK",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Program orientasi, mobilitas, sosial, dan komunikasi bagi peserta didik berkebutuhan khusus.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 81,
+    "name": "Sejarah",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian peristiwa sejarah Indonesia dan dunia serta nilai-nilainya.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 82,
+    "name": "Seni Musik",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik bermusik tingkat lanjut dan apresiasi karya musik.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 83,
+    "name": "Seni Rupa",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Eksplorasi seni rupa tingkat lanjut dan karya kreatif.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 84,
+    "name": "Seni Tari",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik tari tingkat lanjut dan apresiasi seni tari.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 85,
+    "name": "Seni Teater",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik teater tingkat lanjut dan pementasan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 86,
+    "name": "Sosiologi",
+    "jenjang": "SMA",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian struktur sosial, interaksi, dan perubahan masyarakat.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 87,
+    "name": "Bahasa Indonesia",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan berbahasa Indonesia untuk komunikasi dunia kerja.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 88,
+    "name": "Bahasa Inggris",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Bahasa Inggris untuk komunikasi dan kebutuhan dunia kerja.",
+    "cp": "Fase E\nPada akhir fase E, murid memiliki kemampuan sebagai berikut.\n4.1 Menyimak - Berbicara (Listening - Speaking)\nMemahami alur informasi secara keseluruhan, gagasan utama dan detail dalam teks lisan fiksi dan non fiksi mengenai berbagai macam topik yang relevan dengan topik sehari-hari atau isu terkini; menggunakan bahasa Inggris untuk mengungkapkan pendapat dan mempertahankan argumen tentang topik yang dibahas. (Understand the entire flow of information, the main idea and details in fiction and nonfiction spoken texts about various topics relevant to everyday topics or current issues; use English to express their opinions and defend their arguments about the topics discussed)\n4.2 Membaca - Memirsa (Reading - Viewing)\nMemahami alur informasi secara keseluruhan, menganalisis dan menyimpulkan informasi tersurat dan tersirat dari berbagai jenis teks fiksi dan non fiksi tertulis atau teks multimodal tentang topik sehari-hari atau isu terkini. (Understand the entire flow of information, analyze and infer explicit and implicit information in fiction and nonfiction from written and multimodal texts about everyday topics or current issues)\n4.3 Menulis - Mempresentasikan (Writing - Presenting)\nMengomunikasikan gagasan dan pengalaman mereka secara tertulis atau multimodal dalam berbagai jenis teks fiksi dan nonfiksi dengan menggunakan berbagai media presentasi (cetak dan digital) untuk mencapai tujuan tertentu dengan struktur teks dan unsur kebahasaan yang tepat; mengungkapkan pendapat dan mempertahankan argumen tentang topik sehari-hari atau isu terkini. (Communicate their ideas and experiences in written or multimodal texts in fiction and nonfiction texts using different media of presentation (print and digital) to achieve specific goals with appropriate text structures and language features; express their opinions and defend their arguments about everyday topics or current issues)\n\nFase F\nPada akhir fase F, murid memiliki kemampuan sebagai berikut.\n5.1 Menyimak - Berbicara (Listening - Speaking)\nMemahami alur informasi secara keseluruhan dari teks lisan fiksi dan non fiksi tentang isu terkini atau topik terkait mata pelajaran lain; menggunakan bahasa Inggris untuk mengungkapkan pendapat dan mempertahankan argumen tentang topik yang dibahas. (Understand the entire flow of information in fiction and nonfiction spoken texts about current issues or topics related to other subjects; use English to express their opinions and defend their arguments about the topics discussed)\n5.2 Membaca - Memirsa (Reading - Viewing)\nMengevaluasi informasi tersurat dan tersirat dari berbagai jenis teks fiksi dan non fiksi tertulis atau teks multimodal tentang isu terkini atau topik yang terkait mata pelajaran lain. (Evaluate explicit and implicit information in fiction and nonfiction from written and multimodal texts about current issues or topics related to other subjects)\n5.3 Menulis - Mempresentasikan (Writing - Presenting)\nMengomunikasikan gagasan dan pengalaman secara tertulis atau multimodal dalam berbagai jenis teks fiksi dan nonfiksi dengan struktur teks dan unsur kebahasaan yang tepat dan kompleks dengan menggunakan berbagai media presentasi (cetak dan digital) untuk mencapai tujuan yang berbeda-beda; menunjukkan strategi koreksi dalam kaidah menulis baik dengan bantuan pendidik maupun mandiri; mengungkapkan pendapat dan mempertahankan argumen tentang isu terkini atau topik yang terkait mata pelajaran lain. (Communicate ideas and experiences in written or multimodal texts in fiction and nonfiction texts with appropriate and complex text structures and language features, using different media of presentation (print and digital) to achieve different purposes; demonstrate correction strategies in writing conventions with the help of a teacher or independently; express their opinions and defend their arguments on current issues or topics related to other subjects)",
+    "atp": "Fase F — Contoh Alur Tujuan Pembelajaran (Jenjang SMA/MA/SMK/MAK/Program Paket C)\nKelas XI\n1. Mengidentifikasi alur informasi secara keseluruhan dari teks lisan fiksi tentang isu terkini atau topik terkait mata pelajaran lain.\n2. Mengungkapkan pendapat tentang topik yang dibahas.\n3. Mengevaluasi informasi tersurat dan tersirat dari berbagai jenis teks fiksi tertulis atau multimoda tentang isu terkini atau topik yang terkait mata pelajaran lain.\n4. Mengomunikasikan gagasan dan pengalaman dalam berbagai jenis teks fiksi dengan struktur teks dan unsur kebahasaan yang tepat dan kompleks dengan menggunakan berbagai media (cetak dan digital) untuk mencapai tujuan yang berbeda-beda.\n5. Mengungkapkan pendapat tentang isu terkini atau topik yang terkait mata pelajaran lain.\nKelas XII\n6. Mengidentifikasi alur informasi secara keseluruhan dari teks lisan non fiksi tentang isu terkini atau topik terkait mata pelajaran lain.\n7. Mempertahankan argumen tentang topik yang dibahas sesuai konteks.\n8. Mengevaluasi informasi tersurat dan tersirat dari berbagai jenis teks non fiksi tertulis atau multimoda tentang isu terkini atau topik yang terkait mata pelajaran lain.\n9. Mengomunikasikan gagasan dan pengalaman dalam berbagai jenis teks non fiksi dengan struktur teks dan unsur kebahasaan yang tepat dan kompleks dengan menggunakan berbagai media (cetak dan digital) untuk mencapai tujuan yang berbeda-beda.\n10. Menunjukkan strategi koreksi dalam kaidah menulis baik dengan bantuan pendidik maupun mandiri.\n11. Memertahankan pendapat tentang isu terkini atau topik yang terkait mata pelajaran lain.\n\nCatatan: Contoh ATP pada panduan tersedia untuk Fase F (Kelas XI-XII). Contoh ATP Fase E tidak disediakan dalam dokumen sumber."
+  },
+  {
+    "id": 89,
+    "name": "Dasar-dasar Agribisnis Perikanan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar usaha budidaya dan pengolahan hasil perikanan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 90,
+    "name": "Dasar-dasar Agribisnis Tanaman",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar budidaya dan pengelolaan usaha tanaman.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 91,
+    "name": "Dasar-dasar Agribisnis Ternak",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar budidaya dan pengelolaan usaha ternak.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 92,
+    "name": "Dasar-dasar Agriteknologi Pengolahan Hasil Pertanian",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar teknologi pengolahan hasil pertanian menjadi produk bernilai.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 93,
+    "name": "Dasar-dasar Akuntansi dan Keuangan Lembaga",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pencatatan akuntansi dan pengelolaan keuangan lembaga.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 94,
+    "name": "Dasar-dasar Animasi",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pembuatan animasi dua dan tiga dimensi.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 95,
+    "name": "Dasar-dasar Broadcasting dan Perfilman",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar produksi siaran televisi, radio, dan film.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 96,
+    "name": "Dasar-dasar Busana",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pembuatan dan desain busana.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 97,
+    "name": "Dasar-dasar Desain dan Produksi Kriya",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar desain dan produksi karya kriya.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 98,
+    "name": "Dasar-dasar Desain Komunikasi Visual",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar desain grafis dan komunikasi visual.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 99,
+    "name": "Dasar-dasar Desain Pemodelan dan Informasi Bangunan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar desain pemodelan dan informasi bangunan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 100,
+    "name": "Dasar-dasar Kecantikan dan Spa",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar tata rias, perawatan kecantikan, dan spa.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 101,
+    "name": "Dasar-dasar Kimia Analisis",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar analisis kimia dan pengujian laboratorium.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 102,
+    "name": "Dasar-dasar Konstruksi dan Perawatan Bangunan Sipil",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar konstruksi dan perawatan bangunan sipil.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 103,
+    "name": "Dasar-dasar Kuliner",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pengolahan makanan dan tata boga.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 104,
+    "name": "Dasar-dasar Layanan Kesehatan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pelayanan kesehatan dan asuhan keperawatan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 105,
+    "name": "Dasar-dasar Manajemen Perkantoran dan Layanan Bisnis",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar administrasi perkantoran dan layanan bisnis.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 106,
+    "name": "Dasar-dasar Nautika Kapal Niaga",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pelayaran dan pengoperasian kapal niaga.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 107,
+    "name": "Dasar-dasar Nautika Kapal Penangkap Ikan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pelayaran dan pengoperasian kapal penangkap ikan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 108,
+    "name": "Dasar-dasar Pekerjaan Sosial",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pendampingan dan pekerjaan sosial.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 109,
+    "name": "Dasar-dasar Pemasaran",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar strategi pemasaran dan penjualan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 110,
+    "name": "Dasar-dasar Pengembangan Perangkat Lunak dan Gim",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pengembangan perangkat lunak dan gim.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 111,
+    "name": "Dasar-dasar Perhotelan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pelayanan perhotelan dan pariwisata.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 112,
+    "name": "Dasar-dasar Seni Pertunjukan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar produksi dan penyajian seni pertunjukan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 113,
+    "name": "Dasar-dasar Seni Rupa",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar seni rupa dan produksi karya visual.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 114,
+    "name": "Dasar-dasar Teknik Elektronika",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar rangkaian elektronika dan perakitannya.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 115,
+    "name": "Dasar-dasar Teknik Energi Terbarukan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pemanfaatan dan pengelolaan energi terbarukan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 116,
+    "name": "Dasar-dasar Teknik Furnitur",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pembuatan dan desain furnitur.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 117,
+    "name": "Dasar-dasar Teknik Geologi Pertambangan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar eksplorasi dan pengelolaan tambang.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 118,
+    "name": "Dasar-dasar Teknik Geospasial",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pemetaan dan teknologi geospasial.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 119,
+    "name": "Dasar-dasar Teknik Jaringan Komputer dan Telekomunikasi",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar jaringan komputer dan telekomunikasi.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 120,
+    "name": "Dasar-dasar Teknik Ketenagalistrikan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar instalasi dan sistem ketenagalistrikan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 121,
+    "name": "Dasar-dasar Teknik Kimia Industri",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar proses kimia pada industri.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 122,
+    "name": "Dasar-dasar Teknik Konstruksi dan Perumahan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar konstruksi bangunan dan perumahan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 123,
+    "name": "Dasar-dasar Teknik Konstruksi Kapal",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar konstruksi dan pembuatan kapal.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 124,
+    "name": "Dasar-dasar Teknik Laboratorium Medik",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pemeriksaan laboratorium medik.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 125,
+    "name": "Dasar-dasar Teknik Logistik",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pengelolaan logistik dan rantai pasok.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 126,
+    "name": "Dasar-dasar Teknik Mesin",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pemesinan dan perawatan mesin.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 127,
+    "name": "Dasar-dasar Teknik Otomotif",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar perawatan dan perbaikan kendaraan bermotor.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 128,
+    "name": "Dasar-dasar Teknik Pengelasan dan Fabrikasi Logam",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pengelasan dan fabrikasi logam.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 129,
+    "name": "Dasar-dasar Teknik Perawatan Gedung",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar perawatan dan pemeliharaan gedung.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 130,
+    "name": "Dasar-dasar Teknik Perminyakan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar eksplorasi dan pengolahan minyak bumi.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 131,
+    "name": "Dasar-dasar Teknik Pesawat Udara",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar perawatan dan perbaikan pesawat udara.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 132,
+    "name": "Dasar-dasar Teknik Tekstil",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar proses produksi tekstil.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 133,
+    "name": "Dasar-dasar Teknika Kapal Niaga",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pengoperasian mesin kapal niaga.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 134,
+    "name": "Dasar-dasar Teknika Kapal Penangkap Ikan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pengoperasian mesin kapal penangkap ikan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 135,
+    "name": "Dasar-dasar Teknologi Farmasi",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pembuatan dan pengendalian mutu sediaan farmasi.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 136,
+    "name": "Dasar-dasar Usaha Layanan Wisata",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pengelolaan usaha layanan wisata.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 137,
+    "name": "Dasar-dasar Usaha Pertanian Terpadu",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Dasar-dasar pengelolaan usaha pertanian secara terpadu.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 138,
+    "name": "Informatika",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pemrograman, jaringan, dan literasi digital untuk dunia kerja.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 139,
+    "name": "Kepercayaan Terhadap Tuhan Yang Maha Esa dan Budi Pekerti",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Penguatan keyakinan terhadap Tuhan Yang Maha Esa dan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 140,
+    "name": "Koding dan Kecerdasan Artifisial",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Keterampilan koding dan penerapan kecerdasan artifisial di dunia kerja.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 141,
+    "name": "Kreativitas Inovasi dan Kewirausahaan",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pengembangan kreativitas, inovasi, dan jiwa kewirausahaan.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 142,
+    "name": "Matematika",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Matematika terapan untuk kebutuhan dunia kerja.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 143,
+    "name": "Pendidikan Agama Buddha dan Budi Pekerti",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Buddha dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 144,
+    "name": "Pendidikan Agama Hindu dan Budi Pekerti",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Hindu dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 145,
+    "name": "Pendidikan Agama Islam dan Budi Pekerti",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Islam dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 146,
+    "name": "Pendidikan Agama Katolik dan Budi Pekerti",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Katolik dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 147,
+    "name": "Pendidikan Agama Khonghucu dan Budi Pekerti",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Khonghucu dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 148,
+    "name": "Pendidikan Agama Kristen dan Budi Pekerti",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Pendalaman ajaran agama Kristen dan penguatan budi pekerti.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 149,
+    "name": "Pendidikan Pancasila",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Penerapan nilai Pancasila dalam kehidupan bermasyarakat dan bekerja.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 150,
+    "name": "PJOK",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Aktivitas fisik dan kebugaran untuk mendukung produktivitas kerja.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 151,
+    "name": "Projek IPAS",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Proyek pembelajaran ilmu pengetahuan alam dan sosial terintegrasi.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 152,
+    "name": "Sejarah",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Kajian sejarah bangsa untuk membangun karakter dan identitas.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 153,
+    "name": "Seni Musik",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik musik dan apresiasi seni untuk pengembangan diri.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 154,
+    "name": "Seni Rupa",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik seni rupa dan pengembangan kreativitas.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 155,
+    "name": "Seni Tari",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik tari dan apresiasi seni untuk pengembangan diri.",
+    "cp": "",
+    "atp": ""
+  },
+  {
+    "id": 156,
+    "name": "Seni Teater",
+    "jenjang": "SMK",
+    "fase": "E-F",
+    "kurikulum": "Kurikulum Merdeka",
+    "description": "Praktik teater dan pengembangan ekspresi diri.",
+    "cp": "",
+    "atp": ""
+  }
+]
